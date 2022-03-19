@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @codeboy
 - 👀 I’m interested in ...Hacking 
 - 🌱 I’m currently learning ...HTTPS analysis
-- 💞️ I’m looking to collaborate on ... basically anything 
-- 📫 How to reach me ...amanpatel01022000@gmail.com
+- 💞️ I’m looking to collaborate on ... things such as electronics,aurdino stuff, espies , python langauage , automations
 
 
-<!---
-codeboy808543/codeboy808543 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
